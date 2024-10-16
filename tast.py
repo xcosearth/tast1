@@ -1,1 +1,1 @@
-print(HelloHD) # type: ignoregit init
+print("hello") # type: ignoregit 
